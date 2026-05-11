@@ -25,21 +25,17 @@ role assignments in Azure and verify access permissions hands-on.
 ## Screenshots
 
 ### 1. Created User in Entra ID
-![Created User](screenshots/create-user.png)
 
 ### 2. Assigned Reader Role via Access Control (IAM) - Resource Group: rsg1
-![RBAC Assignment](screenshots/rbac-reader.png)
-
 ### 3. User1 Subscription View (Read Only)
-![User View](screenshots/user-subscription-view.png)
-
+![Created User]
+<img width="952" height="473" alt="image" src="https://github.com/user-attachments/assets/2d9e5699-5622-456a-ac09-f6fbd7de9753" />
 ### 4. AuthorizationFailed Error - VM Creation Blocked in rsg1
 ![Authorization Failed](screenshots)
 <img width="808" height="380" alt="image" src="https://github.com/user-attachments/assets/7843d1ff-5728-4792-a177-c3d69280845d" />
-
-
 ### 5. Password Reset from Admin Account
-![Password Reset](screenshots/password-reset.png)
+<img width="953" height="502" alt="Screenshot 2026-05-11 111035" src="https://github.com/user-attachments/assets/a45e01eb-0685-4e6a-845f-c6281778718d" />
+
 
 ## Key Concepts Learned
 
